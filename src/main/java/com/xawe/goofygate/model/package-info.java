@@ -1,0 +1,1 @@
+package com.xawe.goofygate.model;
